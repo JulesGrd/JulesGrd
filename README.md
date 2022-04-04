@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [monodcrush.fr](monodcrush.fr)
+- 🔭 I’m currently working on [monodcrush.fr]( https://monodcrush.fr)
 
 - 🌱 I’m currently learning **Flutter**
 
