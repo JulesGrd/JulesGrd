@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jules</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [monodcrush.fr]( https://monodcrush.fr) <a href="https://monodcrush.fr/" target="_blank" rel="noreferrer"> <img src="https://monodcrush.fr/static/images/logo.png" alt="logo monodcrush" width="20" height="20"/> </a>
-
 - 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Languages and Tools:</h3>
