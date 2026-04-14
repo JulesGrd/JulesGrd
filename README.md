@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a 3rd year engineering student at **ISIMA**, specializing in **Cybersecurity** and **DevOps**.  
+- 🎓 I'm a 2rd year engineering student at **ISIMA**, specializing in **Cybersecurity** and **DevOps**.  
 - 🔐 Passionate about **offensive security**, **secure development**, and **infrastructure automation**.  
 - 🛠️ I enjoy building **secure systems**, automating deployments, and exploring **pentesting** in both **web** and **Active Directory** environments.  
 - 🏡 Passionate about **home automation (Home Assistant)**, **IoT**, and **embedded systems**, I love designing and deploying connected solutions using **microcontrollers** and networked devices.  
@@ -28,8 +28,6 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/podman.svg" alt="podman" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40"/>
 </p>
 
 #### ☁️ Cloud & Infrastructure
